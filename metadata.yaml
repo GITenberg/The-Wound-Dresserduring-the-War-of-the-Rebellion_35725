@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '37860'
     url: http://www.gutenberg.org/2009/agents/37860
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35725#The-Wound-Dresserduring-the-War-of-the-Rebellion
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-03-30'
 gutenberg_type: Text
